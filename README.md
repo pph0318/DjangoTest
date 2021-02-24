@@ -1,0 +1,2 @@
+# DjangoTest
+Django博客项目个人测试学习git和Django用法
